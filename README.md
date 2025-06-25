@@ -1,0 +1,2 @@
+# -GOOGLEGEMINI6.25.254KJailbreaks-
+1.0a 
